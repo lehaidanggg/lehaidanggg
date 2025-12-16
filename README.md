@@ -1,18 +1,20 @@
 # Hi 👋, I'm Le Hai Dang
 
-### I'm mobile developer
+#### I'm a Mobile Developer with 3 years of experience building product and outsourcing apps, focusing on IAA and IAP-driven mobile applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lehaidanggg&label=Profile views&color=0e75b6&style=flat" alt="lehaidanggg" /> </p>
 
-- 🔭 My tech stack:
-  ** Android core: Activity, Intent, Broadcast Receiver, Service
-  ** Reactive: Kotlin Flow, Live Data, RxJava.
-  ** Network&Data: Rest API, SQLite/Room, SharedPreferences
-  ** Dependency Injection: Dagger-hilt, Koin
-  ** Architecture Pattern: MVVM, MVC
-  ** Async: Thread, Kotlin coroutines
-  ** Jetpack Component: Navigation, WorkManager, Paging 3, DataStore,...
-  ** Other: Firebase, View/Custom view, Canvas, Material design
+## 🛠 Tech Stack & Skills
+
+| Category | Technologies |
+|--------|--------------|
+| **Android Core** | Activity, Intent, Broadcast Receiver, Service |
+| **Reactive** | Kotlin Flow, LiveData, RxJava |
+| **Network & Data** | REST API, SQLite / Room, SharedPreferences |
+| **Dependency Injection** | Dagger-Hilt, Koin |
+| **Architecture Pattern** | MVVM, MVC |
+| **Asynchronous** | Thread, Kotlin Coroutines |
+| **Jetpack Components** | Navigation, WorkManager, Paging 3, DataStore |
+| **Other** | Firebase, Custom View, Canvas, Material Design |
 
 
 - 📫 How to reach me **lehaidang.work@gmail.com**
