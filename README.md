@@ -9,9 +9,9 @@
 |--------|--------------|
 | **Android Core** | Activity, Intent, Broadcast Receiver, Service |
 | **Reactive** | Kotlin Flow, LiveData, RxJava |
-| **Network & Data** | REST API, SQLite / Room, SharedPreferences |
+| **Network & Data** | REST API, SQLite / Room, SharedPreferences, DataSource |
 | **Dependency Injection** | Dagger-Hilt, Koin |
-| **Architecture Pattern** | MVVM, MVC |
+| **Architecture Pattern** | MVVM, MVI |
 | **Asynchronous** | Thread, Kotlin Coroutines |
 | **Jetpack Components** | Navigation, WorkManager, Paging 3, DataStore |
 | **Other** | Firebase, Custom View, Canvas, Material Design |
