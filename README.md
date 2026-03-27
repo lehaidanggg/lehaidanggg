@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/lehaidanggg](https://github.com/lehaidanggg)**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1mb0cE6fFmgTJ2ZEH1WGRyJn3v43jbvF7K_K7PqoFwFc/edit?tab=t.0](https://docs.google.com/document/d/1mb0cE6fFmgTJ2ZEH1WGRyJn3v43jbvF7K_K7PqoFwFc/edit?tab=t.0)**
+- 📄 Know about my experiences **[https://docs.google.com/document/d/1jfU8gsro0KoBDfwHFwm-A4bRf35MuvIo/edit](https://docs.google.com/document/d/1jfU8gsro0KoBDfwHFwm-A4bRf35MuvIo/edit)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
